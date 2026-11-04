@@ -1,0 +1,4 @@
+# Arquivos que não vão para o repositório Git
+.DS_Store
+Thumbs.db
+*.log

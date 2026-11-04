@@ -1,0 +1,12 @@
+# Blueprint do Render — descreve o serviço automaticamente ao conectar o repositório
+services:
+  - type: web
+    name: agenda-estetica
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    region: oregon
+    healthCheckPath: /
+    envVars:
+      - key: PHP_OPCACHE_ENABLE
+        value: "1"

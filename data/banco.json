@@ -1,0 +1,75 @@
+{
+    "agendamentos": [
+        {
+            "id": 1,
+            "cliente": "Maria Oliveira",
+            "telefone": "(11) 98888-1234",
+            "procedimento": "Limpeza de pele profunda",
+            "profissional": "Ana Paula",
+            "data": "2026-11-04",
+            "horaInicio": "09:00",
+            "duracaoMinutos": 60,
+            "status": "confirmado",
+            "observacoes": "Sensibilidade na região das bochechas.",
+            "criadoEm": "2026-11-01T10:15:00+00:00",
+            "atualizadoEm": "2026-11-02T14:20:00+00:00"
+        },
+        {
+            "id": 2,
+            "cliente": "Joana Santos",
+            "telefone": "(11) 97777-5566",
+            "procedimento": "Depilação a laser - pernas",
+            "profissional": "Ana Paula",
+            "data": "2026-11-04",
+            "horaInicio": "11:00",
+            "duracaoMinutos": 90,
+            "status": "pendente",
+            "observacoes": "1ª sessão, enviar termo de consentimento.",
+            "criadoEm": "2026-11-02T09:00:00+00:00",
+            "atualizadoEm": "2026-11-02T09:00:00+00:00"
+        },
+        {
+            "id": 3,
+            "cliente": "Carlos Mendes",
+            "telefone": "(11) 96666-8899",
+            "procedimento": "Barba + hidratação facial",
+            "profissional": "Rafael",
+            "data": "2026-11-04",
+            "horaInicio": "14:30",
+            "duracaoMinutos": 45,
+            "status": "confirmado",
+            "observacoes": "",
+            "criadoEm": "2026-11-03T18:40:00+00:00",
+            "atualizadoEm": "2026-11-03T18:40:00+00:00"
+        },
+        {
+            "id": 4,
+            "cliente": "Fernanda Lima",
+            "telefone": "(11) 95555-3210",
+            "procedimento": "Drenagem linfática (pacote 10 sessões)",
+            "profissional": "Beatriz",
+            "data": "2026-11-05",
+            "horaInicio": "08:00",
+            "duracaoMinutos": 60,
+            "status": "pendente",
+            "observacoes": "Sessão 3 de 10.",
+            "criadoEm": "2026-10-28T11:05:00+00:00",
+            "atualizadoEm": "2026-10-28T11:05:00+00:00"
+        },
+        {
+            "id": 7,
+            "cliente": "Josiane",
+            "telefone": "(31) 98770-7962",
+            "procedimento": "limpeza",
+            "profissional": "Ana Paula",
+            "data": "2026-11-04",
+            "horaInicio": "17:00",
+            "duracaoMinutos": 45,
+            "status": "pendente",
+            "observacoes": "",
+            "criadoEm": "2026-11-04T05:45:38-03:00",
+            "atualizadoEm": "2026-11-04T05:45:38-03:00"
+        }
+    ],
+    "proximoId": 8
+}

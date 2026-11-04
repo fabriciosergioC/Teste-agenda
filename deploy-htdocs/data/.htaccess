@@ -1,0 +1,2 @@
+# Bloqueia acesso web direto ao banco JSON (dados dos clientes)
+Require all denied

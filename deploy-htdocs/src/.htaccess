@@ -1,0 +1,2 @@
+# Bloqueia acesso web direto ao código-fonte (Apache 2.4+)
+Require all denied
